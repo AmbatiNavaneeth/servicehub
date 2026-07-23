@@ -1,0 +1,13 @@
+{
+  "projectName": "service-hub",
+  "framework": "react",
+  "bundler": "vite",
+  "language": "typescript",
+  "styling": "tailwind",
+  "database": "supabase",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "typecheckCommand": "npm run typecheck",
+  "lintCommand": "npm run lint",
+  "previewCommand": "npm run preview"
+}
